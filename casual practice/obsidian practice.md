@@ -37,7 +37,10 @@ ___
 ```python
 print("nihao")
 ```
+`int main()`
+
 <!--
+``代表单行代码
 ```代表代码块，后面可以根据具体代码标识，让语句高亮显示
  C 语言：`c`
  Python：`python`
